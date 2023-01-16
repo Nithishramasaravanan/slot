@@ -115,10 +115,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](./static/images/OUT.png)
+![OUTPUT](.slot/mypro/static/images/OUT.png)
 
 # HTML VALIDATION
-![HTML VALIDATION](./static/images/valid.png)
+![HTML VALIDATION](.slot/mypro/static/images/valid.png)
 
 # RESULT
 The Program for creating slot time table is completed successfully
